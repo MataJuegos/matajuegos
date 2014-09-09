@@ -17,7 +17,7 @@
             <li><img src="resources/img/home.png"></li>
             <li><img src="resources/img/news.png"></li>
             <li><img src="resources/img/categories.png"></li>
-            <li><img src="resources/img/top.png"></li>
+            <li><img src="resources/img/top10.png"></li>
         </ul>
         <input type="text" placeholder="Buscar" id="search">
         <ul id="login">
