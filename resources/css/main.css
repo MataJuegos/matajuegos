@@ -4,7 +4,7 @@ GENERAL
 
 body {
     margin: 0;
-    background-color: orange;
+    background-color: #D8D8D8;
 }
 
 
@@ -50,6 +50,7 @@ nav {
     background-color: #04B404;
     text-align: center;
     height: 2em;
+    margin-top: 5px;
 }
 
 nav li {
