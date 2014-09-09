@@ -1,0 +1,50 @@
+/********************
+HEADER
+********************/
+
+body {
+    margin: 0;
+}
+
+
+
+/********************
+HEADER
+********************/
+
+header {
+    background-color: #3ADF00;
+    padding-top: 5px;
+}
+
+header a {
+    text-decoration: none;
+}
+
+#logo {
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#logo h1 {
+    font-weight: 900;
+    margin-bottom: 0;
+}
+
+#logo h2 {
+    font-weight: 400;
+    font-size: 0.75em;
+    margin: 0;
+    padding-left: 150px;
+    font-style: italic;
+}
+
+
+
+/********************
+NAVIGATION
+********************/
+
+nav {
+    background-color: #04B404;
+}
