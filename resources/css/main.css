@@ -1,9 +1,10 @@
 /********************
-HEADER
+GENERAL
 ********************/
 
 body {
     margin: 0;
+    background-color: orange;
 }
 
 
@@ -47,4 +48,43 @@ NAVIGATION
 
 nav {
     background-color: #04B404;
+    text-align: center;
+    height: 2em;
+}
+
+nav li {
+    display: inline-block;
+    height: 2em;
+    margin: 0 2%;
+}
+
+nav li:hover {
+    color: orange;
+}
+
+nav ul {
+    list-style: none;
+    display: inline;
+    background-color: red;
+    margin: 0 5%;
+    padding: 0 2%;
+    height: 2em;
+    line-height: 2em;
+}
+
+nav ul#login {
+    float: right;
+    width: 20%;
+}
+
+nav ul#menu {
+    float: left;
+    width: 20%;
+}
+
+nav #search {
+    display: inline-block;
+    height: 2.4em;
+    border: none;
+    text-align: center;
 }

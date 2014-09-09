@@ -18,7 +18,7 @@
             <li>Categorías</li>
             <li>Top</li>
         </ul>
-        <div id="search"><input type="text" placeholder="Buscar"></div>
+        <input type="text" placeholder="Buscar" id="search">
         <ul id="login">
             <li>Login</li>
             <li>Regístrate</li>
