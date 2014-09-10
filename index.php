@@ -30,6 +30,11 @@
             <li><a href=""><img src="resources/img/register2.png" title="Regístrate"></a></li>
         </ul>
     </nav>
+
+    <embed src="resources/audio/prueba.mp3" autostart="true" loop="true"
+           width="2" height="0">
+    </embed>
+
 </header>
 
 <script>
