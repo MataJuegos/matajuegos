@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Matajuegos - Con una aerodinámica a tu gusto!</title>
+    <title>Matajuegos | Con una aerodinámica a tu gusto!</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="resources/css/normalize.css" type="text/css">
     <link rel="stylesheet" href="resources/css/main.css" type="text/css">
@@ -31,11 +31,30 @@
         </ul>
     </nav>
 
-    <embed src="resources/audio/prueba.mp3" autostart="true" loop="true"
-           width="2" height="0">
-    </embed>
-
 </header>
+
+    <div id="editor">
+
+    </div>
+    <div id="drag">
+
+    </div>
+    <div id="publi">
+
+    </div>
+
+    <footer>
+        <ul>
+            <li id="privacity"><a href="">Política de privacidad</a> | <a href="">Términos y condiciones</a> | <a href="">Sobre nosotros</a></li>
+            <li id="copyright">&copy; 2014 | MataJuegos</li>
+            <li id="networks">
+                <a href=""><img src="resources/img/facebook.png"></a>
+                <a href=""><img src="resources/img/twitter.png"></a>
+                <a href=""><img src="resources/img/instagram.png"></a>
+                <a href=""><img src="resources/img/youtube.png"></a>
+            </li>
+        </ul>
+    </footer>
 
 <script>
     $(function() {
