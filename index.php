@@ -2,6 +2,7 @@
 <head>
     <title>Matajuegos | Con una aerodinámica a tu gusto!</title>
     <meta charset="utf-8">
+    <link rel="icon" type="image/x-icon" href="resources/img/favicon.ico" />
     <link rel="stylesheet" href="resources/css/normalize.css" type="text/css">
     <link rel="stylesheet" href="resources/css/main.css" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Bubblegum+Sans|Fugaz+One|Jockey+One|Jura:400,600|Orbitron:400,900' rel='stylesheet' type='text/css'>
