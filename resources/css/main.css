@@ -56,14 +56,17 @@ FOOTER
     margin:0;
     padding:0;
 }
+
 #copyright{
     width: 500px;
     float:left;
 }
+
 #privacity{
     width: calc(50% - 250px);
     float:left;
 }
+
 #networks{
     width: calc(50% - 250px);
     float:right;
@@ -81,6 +84,7 @@ footer img {
 
 footer li {
     line-height: 2em;
+    list-style: none;
 }
 
 footer a {
@@ -161,7 +165,7 @@ EDITOR
     float: left;
     margin: 1.5% 2.5%;
     width: 15%;
-    height: 75%;
+    height: 70%;
     border: 1px #d7d7d7 solid;
     -moz-box-sizing:    border-box;
     -webkit-box-sizing: border-box;
@@ -177,7 +181,7 @@ DRAG
 #drag {
     background-color: #E6E6E6;
     width: 60%;
-    height: 75%;
+    height: 70%;
     margin: 1.5% auto;
     display: inline-block;
     border: 1px #d7d7d7 solid;
@@ -197,7 +201,7 @@ PUBLI
     float: right;
     margin: 1.5% 2.5%;
     width: 15%;
-    height: 75%;
+    height: 70%;
     border: 1px #d7d7d7 solid;
     -moz-box-sizing:    border-box;
     -webkit-box-sizing: border-box;

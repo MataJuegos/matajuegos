@@ -1,0 +1,19 @@
+@media screen and (max-width: 1600px) {
+
+    /*******************
+    FOOTER
+    *******************/
+
+    #copyright, #privacity {
+        text-align: center;
+        font-size: 0.8em;
+    }
+
+    #privacity {
+        font-size: 0.7em;
+    }
+
+
+
+}
+

@@ -5,6 +5,7 @@
     <link rel="icon" type="image/x-icon" href="resources/img/favicon.ico" />
     <link rel="stylesheet" href="resources/css/normalize.css" type="text/css">
     <link rel="stylesheet" href="resources/css/main.css" type="text/css">
+    <link rel="stylesheet" href="resources/css/media.css" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Bubblegum+Sans|Fugaz+One|Jockey+One|Jura:400,600|Orbitron:400,900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
     <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
